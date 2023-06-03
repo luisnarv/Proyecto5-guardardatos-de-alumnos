@@ -2,7 +2,7 @@
 Este programa en C++ permite ingresar los datos de alumnos, incluyendo su nombre, apellido, nombre de 5 materias y las calificaciones correspondientes a cada materia. Luego, calcula el promedio general de cada alumno y el promedio final del grupo de alumnos.
 
 # Funcionamiento del Programa
-- El programa solicitará ingresar los datos de cada alumno, en el siguiente orden:
+ El programa solicitará ingresar los datos de cada alumno, en el siguiente orden:
 
 * Nombre del alumno
 * Apellido del alumno
@@ -15,7 +15,8 @@ Este programa en C++ permite ingresar los datos de alumnos, incluyendo su nombre
 * Nombre de la materia 4
 * Calificación de la materia 4
 * Nombre de la materia 5
-* Calificación de la materia 5
+* Calificación de la materia 5.
+
 Después de ingresar los datos de ambos alumnos, el programa calculará el promedio general de cada alumno. El promedio se obtiene sumando las calificaciones de las 5 materias y dividiendo el resultado entre 5.
 
 Finalmente, el programa mostrará en pantalla el promedio general de cada alumno, junto con su nombre y apellido. Además, se calculará el promedio final del grupo, que es el promedio de los dos alumnos.
