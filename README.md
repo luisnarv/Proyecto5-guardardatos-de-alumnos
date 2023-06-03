@@ -1,5 +1,5 @@
 # Programa de Cálculo de Promedios de Alumnos
-Este programa en C++ permite ingresar los datos de 2 alumnos, incluyendo su nombre, apellido, nombre de 5 materias y las calificaciones correspondientes a cada materia. Luego, calcula el promedio general de cada alumno y el promedio final del grupo de los 2 alumnos.
+Este programa en C++ permite ingresar los datos de alumnos, incluyendo su nombre, apellido, nombre de 5 materias y las calificaciones correspondientes a cada materia. Luego, calcula el promedio general de cada alumno y el promedio final del grupo de alumnos.
 
 # Funcionamiento del Programa
 - El programa solicitará ingresar los datos de cada alumno, en el siguiente orden:
